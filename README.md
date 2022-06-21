@@ -10,3 +10,4 @@ If you have any questions regarding lacrosse statistics or anything, please feel
 - [ ] A chrome extension to modernize WashU's WebSTAC
 - [ ] Something to Unfuck the college process
 - [ ] Documenting & Publishing lacrosse stats apis (PLL & College)
+- [ ] Something with night clubs (info + reviews)
