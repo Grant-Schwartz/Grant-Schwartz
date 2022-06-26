@@ -11,3 +11,4 @@ If you have any questions regarding lacrosse statistics or anything, please feel
 - [ ] Something to Unfuck the college process
 - [ ] Documenting & Publishing lacrosse stats apis (PLL & College)
 - [ ] Something with night clubs (info + reviews)
+- [ ] A new stack the states game with more questions and updated ui
