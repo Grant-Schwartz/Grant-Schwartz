@@ -12,3 +12,4 @@ If you have any questions regarding lacrosse statistics or anything, please feel
 - [ ] Documenting & Publishing lacrosse stats apis (PLL & College)
 - [ ] Something with night clubs (info + reviews)
 - [ ] A new stack the states game with more questions and updated ui
+- [ ] Open source omni search library that can connect to a variety of DBs and fixtures
