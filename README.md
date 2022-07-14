@@ -16,3 +16,4 @@ If you have any questions regarding lacrosse statistics or anything, please feel
 - [ ] Open source omni search library that can connect to a variety of DBs and fixtures
 - [ ] A well designed pocket constitution
 - [ ] Open source pantone
+- [ ] Bring the pleasure of learning in the classroom to ordinary life
