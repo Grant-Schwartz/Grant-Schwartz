@@ -17,3 +17,4 @@ If you have any questions regarding lacrosse statistics or anything, please feel
 - [ ] A well designed pocket constitution
 - [ ] Open source pantone
 - [ ] Bring the pleasure of learning in the classroom to ordinary life
+- [ ] 3D Map generator for video (see Johnny Harris) [name it Taranis]
