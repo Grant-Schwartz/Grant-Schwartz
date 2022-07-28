@@ -4,7 +4,7 @@ I am the founder of Flow Fantasy Inc. - the world's first and only lacrosse comp
 
 In the past, I've worked on an open-source project for NASA's Goddard Space Center in their Radio Jove project. The goal was to create easy to use software that enables citizen scientists (educators & students) to record data from radio telescopes.
 
-If you have any questions regarding lacrosse statistics or anything, please feel free to reach out. I will be launching a personal website soon and will post it accordingly. Below are some ideas I'm going to work on.
+If you have any questions regarding lacrosse statistics or anything, please feel free to reach out. I will be launching a personal website soon and will post it accordingly. Below are some ideas I might work on. We'll see
 
 - [ ] Minimalist project management designed for solo-devs
 - [ ] A chrome extension to modernize WashU's WebSTAC
