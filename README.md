@@ -14,7 +14,7 @@ If you have any questions regarding lacrosse statistics or anything, please feel
 - [ ] An service that texts college students what is going on on their campus every week
 - [ ] A new stack the states game with more questions and updated ui
 - [ ] Open source omni search library that can connect to a variety of DBs and fixtures
-- [ x ] A well designed pocket constitution (found here)[https://grantschwartz.xyz/posts/a-well-designed-constitution]
+- [x] A well designed pocket constitution [found here](https://grantschwartz.xyz/posts/a-well-designed-constitution)
 - [ ] Open source pantone
 - [ ] Bring the pleasure of learning in the classroom to ordinary life
 - [ ] 3D Map generator for video (see Johnny Harris) [name it Taranis]
