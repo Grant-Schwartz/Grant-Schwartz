@@ -9,6 +9,7 @@ If you have any questions regarding lacrosse statistics or anything, please feel
 - [ ] Minimalist project management designed for solo-devs
 - [ ] A chrome extension to modernize WashU's WebSTAC
 - [ ] Something to Unfuck the college process
+  - [ ] Help take useful notes on college tours
 - [ ] Documenting & Publishing lacrosse stats apis (PLL & College)
 - [ ] Something with night clubs (info + reviews)
 - [ ] An service that texts college students what is going on on their campus every week
