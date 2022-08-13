@@ -21,3 +21,4 @@ If you have any questions regarding lacrosse statistics or anything, please feel
 - [ ] 3D Map generator for video (see Johnny Harris) [name it Taranis]
 - [ ] Lacrosse equipment equivalent of IKEA (cheap but good enough)
 - [ ] Color scale generator (feed a color and recieve all different opacities as hex)
+- [ ] An API for congressional stock buys/sells
