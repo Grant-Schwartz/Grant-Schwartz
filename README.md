@@ -23,3 +23,4 @@ If you have any questions regarding lacrosse statistics or anything, please feel
 - [ ] Color scale generator (feed a color and recieve all different opacities as hex)
 - [ ] An API for congressional stock buys/sells
 - [ ] Heroku for ai modeling/training
+- [ ] An easy tool to sample music
