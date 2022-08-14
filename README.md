@@ -22,3 +22,4 @@ If you have any questions regarding lacrosse statistics or anything, please feel
 - [ ] Lacrosse equipment equivalent of IKEA (cheap but good enough)
 - [ ] Color scale generator (feed a color and recieve all different opacities as hex)
 - [ ] An API for congressional stock buys/sells
+- [ ] Heroku for ai modeling/training
