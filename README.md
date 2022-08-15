@@ -24,3 +24,4 @@ If you have any questions regarding lacrosse statistics or anything, please feel
 - [ ] An API for congressional stock buys/sells
 - [ ] Heroku for ai modeling/training
 - [ ] An easy tool to sample music
+- [ ] AI to improve your running form (takes videos, pictures of your shoes, etc.)
