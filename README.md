@@ -26,3 +26,5 @@ If you have any questions regarding lacrosse statistics or anything, please feel
 - [ ] An easy tool to sample music
 - [ ] AI to improve your running form (takes videos, pictures of your shoes, etc.)
 - [ ] Better anayltics for start ups / products 
+- [ ] WashU ID on Apple Wallet/Android Wallet
+- [ ] Rebrand/Redo Skandalaris Website
