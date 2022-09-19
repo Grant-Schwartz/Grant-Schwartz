@@ -29,3 +29,4 @@ If you have any questions regarding lacrosse statistics or anything, please feel
 - [ ] WashU ID on Apple Wallet/Android Wallet
 - [ ] Rebrand/Redo Skandalaris Website
 - [ ] College info as a chat bot
+- [ ] A better WebWork
